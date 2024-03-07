@@ -12,8 +12,7 @@
 * #### For each AeroFit treadmill product, construct two-way contingency tables and compute all conditional and marginal probabilities along with their                   insights/impact on the business.#### 
 
 # SUGGESTIONS
-* #### Evaluated that KP281 & KP481 treadmills are preferred by the customers whose annual income lies in the range of 39K - 53K Dollars. These models should             promoted as budget treadmills.
-* #### Prioritized KP781 as having more features and functionalities, the treadmill should be marketed for professionals and athletes.
-* #### Research required for expanding market beyond 50 years of age considering health pros and cons.
-* #### Recommended that KP784 model exhibits a significant sales disparity in terms of gender, with only 18% of total sales attributed to female customers.
-* #### enhance this metric, it is recommended to implement targeted strategies such as offering special promotions and trials exclusively designed for the female         customers.
+* ## Evaluated that KP281 & KP481 treadmills are preferred by the customers whose annual income lies in the range of 39K - 53K Dollars. These models should promoted as budget treadmills.
+* ## Prioritized KP781 as having more features and functionalities, the treadmill should be marketed for professionals and athletes.
+* ## Research required for expanding market beyond 50 years of age considering health pros and cons.
+* ## Recommended that KP784 model exhibits a significant sales disparity in terms of gender, with only 18% of total sales attributed to female customers. To enhance this metric, it is recommended to implement targeted strategies such as offering special promotions and trials exclusively designed for the female customers.
