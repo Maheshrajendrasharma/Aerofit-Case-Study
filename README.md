@@ -5,11 +5,11 @@
 
 ## Defining Problem Statement
 
-* #### The market research team at AeroFit wants to identify the characteristics of the target audience for each type of treadmill offered by the company, to             provide a better recommendation of the treadmills to the new customers. The team decides to investigate whether there are differences across the product           with respect to customer characteristics.
+* ## The market research team at AeroFit wants to identify the characteristics of the target audience for each type of treadmill offered by the company, to             provide a better recommendation of the treadmills to the new customers. The team decides to investigate whether there are differences across the product           with respect to customer characteristics.
 
 ## Objective
-* #### Create a descriptive analytics to create a customer profile for each AeroFit treadmill product by developing appropriate tables and charts.
-* #### For each AeroFit treadmill product, construct two-way contingency tables and compute all conditional and marginal probabilities along with their                   insights/impact on the business.#### 
+* ## Create a descriptive analytics to create a customer profile for each AeroFit treadmill product by developing appropriate tables and charts.
+* ## For each AeroFit treadmill product, construct two-way contingency tables and compute all conditional and marginal probabilities along with their                   insights/impact on the business.#### 
 
 # SUGGESTIONS
 * ## Evaluated that KP281 & KP481 treadmills are preferred by the customers whose annual income lies in the range of 39K - 53K Dollars. These models should promoted as budget treadmills.
